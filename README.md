@@ -3,9 +3,9 @@
 
 ## Description
 
-- Dataset Name: Bitcoin OTC Trust Weighted Signed Network
+Dataset Name: Bitcoin OTC Trust Weighted Signed Network
 
-- Source: https://snap.stanford.edu/data/soc-sign-bitcoinotc.html
+Source: https://snap.stanford.edu/data/soc-sign-bitcoinotc.html
 
 **Research Question**
 
@@ -26,7 +26,7 @@ financial systems.
 - Visualization 
 
 **Group members:**
-1. Kateryna Tkachuk
-2. Filip Edward Madzinski
-3. Hoang Nam Tran
-4. Hafsa Abdullahi Mohammed Ismail
+1. Kateryna Tkachuk (ktka@itu.dk)
+2. Filip Edward Madzinski (fili@itu.dk)
+3. Hoang Nam Tran (hotr@itu.dk)
+4. Hafsa Abdullahi Mohammed Ismail (hais@itu.dk)
